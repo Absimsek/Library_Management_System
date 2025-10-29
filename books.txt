@@ -1,0 +1,10 @@
+1,To Kill a Mockingbird,Harper Lee,0
+2,Brave New World,Aldous Huxley,0
+3,The Great Gatsby,F. Scott Fitzgerald,0
+4,Pride and Prejudice,Jane Austen,0
+5,The Catcher in the Rye,J.D. Salinger,1
+6,The Hobbit,J.R.R. Tolkien,0
+7,The Alchemist,Paulo Coelho,0
+8,Sapiens: A Brief History of Humankind,Yuval Noah Harari,0
+9,The Da Vinci Code,Dan Brown,0
+10,The Kite Runner,Khaled Hosseini,0
